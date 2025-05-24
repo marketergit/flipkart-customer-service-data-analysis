@@ -1,0 +1,18 @@
+{
+    "project_name": "Flipkart Customer Support Analysis",
+    "execution_timestamp": "2025-05-24 22:54:57",
+    "data_file": "Customer_support_data.csv",
+    "data_shape": [
+        85907,
+        20
+    ],
+    "cleaned_data_shape": [
+        85907,
+        21
+    ],
+    "total_features": 44,
+    "target_column": "is_delayed",
+    "best_model": "Logistic Regression",
+    "best_model_accuracy": 1.0,
+    "execution_time_seconds": 681.12
+}
